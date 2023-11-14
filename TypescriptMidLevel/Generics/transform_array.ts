@@ -14,8 +14,6 @@ same type. The transformArray function should iterate through the input array, a
 callback function to each element, and replace the original element with the result. Test 
 the function with various data types and callback functions.
 
-Here's a starting point for your code:
-
 */
 
 function transformArray<T>(inputArray: T[], callback: (element: T) => T): T[] {

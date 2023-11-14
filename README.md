@@ -5,6 +5,6 @@ Code challenge per Condense
 
 Typescript Mid Level - Done 14.11.23
 
-RegExp Junior
+RegExp Junior - Done 14.11.23
 
 React Mid Level

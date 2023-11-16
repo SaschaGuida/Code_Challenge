@@ -1,0 +1,32 @@
+.container {
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 0 15px;
+    width: 720px;
+}
+
+.wrap {
+  margin: 50px 0;
+}
+
+.toptitle {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  background: #B0BFC8;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  outline: none;
+  padding: 7px 35px;
+}
+
+.button .icon {
+  margin-left: 12px;
+}

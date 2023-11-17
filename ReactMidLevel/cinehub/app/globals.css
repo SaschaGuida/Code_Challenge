@@ -210,6 +210,9 @@ button {
   fill: #ff8888;
 }
 
+.favorite-svg.favorite {
+  fill: gold;
+}
 
 @media (max-width: 768px) {
   .card {

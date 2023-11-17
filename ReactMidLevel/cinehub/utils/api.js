@@ -12,9 +12,9 @@ export const fetchMovies = async () => {
     try {
         const response = await fetch(BASE_URL, HEADERS);
 
-        console.log('Response Status:', response.status);
+        // console.log('Response Status:', response.status);
         const data = await response.json();
-        console.log('Response Data:', data);
+        // console.log('Response Data:', data);
 
         if (!response.ok) {
             throw new Error('Failed to fetch movies');
